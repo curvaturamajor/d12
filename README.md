@@ -1,4 +1,4 @@
-# true-stoic-bot
+# Quote-bot
 Telegram bot that posts a quote and picture
 
 ![Screenshot_3](https://user-images.githubusercontent.com/36741965/215362951-7b8a597c-a781-411d-bdc7-a6a8681f6ebb.png)
